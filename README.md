@@ -8,3 +8,5 @@
 - Displays the ban info to the server console.
 - Prints the ban info to the chat box of all clients as "Username has been banned by their own request."
 - Logs the ban to SourceMod's log with date and time automatically.
+
+### "You should ban yourself, NOW"
