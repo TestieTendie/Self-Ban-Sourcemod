@@ -1,4 +1,4 @@
-<h1 align="center">Self-Ban Sourcemod Plugin</h1>
+<h1 align="center"><a href="https://forums.alliedmods.net/showthread.php?p=2805622#post2805622" >Self-Ban Sourcemod Plugin</a></h1>
 
 <h2 align="center">Sourcemod plugin that allows users to permanently ban themselves with the '!banme' chat command.</h2>
 
